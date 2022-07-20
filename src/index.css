@@ -6,10 +6,28 @@
   background-color: greenyellow !important;
 }
 
-main-content {
+content {
   background-color: red;
+  font-size: 5px;
 }
 
 .span-class {
   background-color: grey;
 }
+
+.blue-highlight {
+  color: red;
+  font-size: 25px;
+}
+
+.green-highlight {
+  color: green;
+  font-size: 40px;
+}
+
+.cyan-highlight {
+  color: cyan;
+  font-size: 40px;
+}
+
+
